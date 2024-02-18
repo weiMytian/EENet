@@ -1,4 +1,4 @@
-name: UHDFour
+name: EENet
 channels:
   - pytorch
   - nvidia
@@ -221,4 +221,4 @@ dependencies:
     - tzdata==2023.3
     - werkzeug==2.2.3
     - yapf==0.33.0
-prefix: /home/hlh/anaconda3/envs/UHDFour
+prefix: /home/mip1/anaconda3/envs/EENet
